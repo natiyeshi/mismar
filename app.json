@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mismar",
+    "slug": "mismar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
