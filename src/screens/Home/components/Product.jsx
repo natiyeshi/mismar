@@ -3,9 +3,9 @@ import React from 'react'
 
 export default function Product() {
   return (
-    <View className="bg-gray-100 shadow-lg shadow-black mr-3 rounded-xl" style={{height:250}}>
+    <View className="bg-gray-100 mx-3 my-3 shadow-lg shadow-black mr-3 rounded-xl" style={{height:250}}>
 
-          <Image className="rounded-t-xl" source={require("../../assets/pizza.png")} style={{width:200,height:150,resizeMode:"cover"}} />
+          <Image className="rounded-t-xl" source={require("../../../../assets/pizza.png")} style={{width:170,height:150,resizeMode:"cover"}} />
           <View className="mt-2 px-2">
              
             <Text className="text-[16px] font-bold">BahrDar</Text>
